@@ -1,2 +1,2 @@
 esta es mi historia
-y la pruebo , para empezar a usar git
+y la pruebo , para empezar a usar git , voy hacewr un cambio
